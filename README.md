@@ -1,2 +1,5 @@
 # hello-world
-my first project, a test. Maybe to collect and share ideas at a later point
+
+Hi humans!
+
+I am Alexander, a physics student in Zürich. I really like indian food!
